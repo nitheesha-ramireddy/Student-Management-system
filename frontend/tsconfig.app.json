@@ -1,0 +1,32 @@
+// C:\Users\acer\Student-Management\frontend\tsconfig.app.json
+{
+  "compilerOptions": {
+    "composite": true,
+    "tsBuildInfoFile": "./node_modules/.vite/tsconfig.app.tsbuildinfo",
+    "target": "ES2020",
+    "useDefineForClassFields": true,
+    "lib": ["ES2020", "DOM", "DOM.Iterable"], // <--- Make sure DOM and DOM.Iterable are here
+    "module": "ESNext",
+    "skipLibCheck": true,
+
+    /* Bundler mode */
+    "moduleResolution": "bundler",
+    "allowImportingTsExtensions": true,
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "noEmit": true,
+    "jsx": "react-jsx",
+
+    /* Linting */
+    "strict": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "noFallthroughCasesInSwitch": true,
+    // Add this if you want to allow paths for imports, though '../types' doesn't strictly need it
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["./src/*"] // Example alias if you use it
+    }
+  },
+  "include": ["src"] // <--- THIS IS CRUCIAL: Ensures TypeScript includes all files in 'src'
+}
