@@ -1,0 +1,1792 @@
+{
+  "users": [
+    {
+      "id": "685afc86-ab3b-46ac-b1ec-15d5478dadfa",
+      "name": "Priya",
+      "password": "password123",
+      "role": "student",
+      "email": "priya@school.edu",
+      "subjectIds": [
+        "60a7d0a6-6919-4060-87dd-5c547d8e0f76",
+        "f6d99d1c-f7e5-4c91-b212-7af7614dfe8b",
+        "68623fd0-700a-4079-8c7c-b512bf3e2652",
+        "48b34cec-7c62-4d06-902f-0a173aec72e5",
+        "cda9286a-56cd-4f44-b851-5d53afe9e982"
+      ]
+    },
+    {
+      "id": "19340f76-fd61-440e-b1ef-b87168687c52",
+      "name": "Aarav",
+      "password": "password123",
+      "role": "student",
+      "email": "aarav@school.edu",
+      "subjectIds": [
+        "60a7d0a6-6919-4060-87dd-5c547d8e0f76",
+        "f6d99d1c-f7e5-4c91-b212-7af7614dfe8b",
+        "68623fd0-700a-4079-8c7c-b512bf3e2652",
+        "48b34cec-7c62-4d06-902f-0a173aec72e5",
+        "cda9286a-56cd-4f44-b851-5d53afe9e982"
+      ]
+    },
+    {
+      "id": "5b392151-8e16-454a-9e51-6c4ecc67b57e",
+      "name": "Abhir",
+      "password": "password123",
+      "role": "student",
+      "email": "abhir@school.edu",
+      "subjectIds": [
+        "60a7d0a6-6919-4060-87dd-5c547d8e0f76",
+        "f6d99d1c-f7e5-4c91-b212-7af7614dfe8b",
+        "68623fd0-700a-4079-8c7c-b512bf3e2652",
+        "48b34cec-7c62-4d06-902f-0a173aec72e5",
+        "cda9286a-56cd-4f44-b851-5d53afe9e982"
+      ]
+    },
+    {
+      "id": "31a5c2d9-048c-49dc-b08d-e36384e21f4b",
+      "name": "Rohan",
+      "password": "password123",
+      "role": "student",
+      "email": "rohan@school.edu",
+      "subjectIds": [
+        "60a7d0a6-6919-4060-87dd-5c547d8e0f76",
+        "f6d99d1c-f7e5-4c91-b212-7af7614dfe8b",
+        "68623fd0-700a-4079-8c7c-b512bf3e2652",
+        "48b34cec-7c62-4d06-902f-0a173aec72e5",
+        "cda9286a-56cd-4f44-b851-5d53afe9e982"
+      ]
+    },
+    {
+      "id": "66a078d3-2be0-46bc-a9b2-fb80a3c76a20",
+      "name": "Siddharth",
+      "password": "password123",
+      "role": "student",
+      "email": "siddharth@school.edu",
+      "subjectIds": [
+        "60a7d0a6-6919-4060-87dd-5c547d8e0f76",
+        "f6d99d1c-f7e5-4c91-b212-7af7614dfe8b",
+        "68623fd0-700a-4079-8c7c-b512bf3e2652",
+        "48b34cec-7c62-4d06-902f-0a173aec72e5",
+        "cda9286a-56cd-4f44-b851-5d53afe9e982"
+      ]
+    },
+    {
+      "id": "19051068-c6bb-44b8-a82a-a79da616a27d",
+      "name": "Ravi",
+      "password": "password123",
+      "role": "student",
+      "email": "ravi@school.edu",
+      "subjectIds": [
+        "60a7d0a6-6919-4060-87dd-5c547d8e0f76",
+        "f6d99d1c-f7e5-4c91-b212-7af7614dfe8b",
+        "68623fd0-700a-4079-8c7c-b512bf3e2652",
+        "48b34cec-7c62-4d06-902f-0a173aec72e5",
+        "cda9286a-56cd-4f44-b851-5d53afe9e982"
+      ]
+    },
+    {
+      "id": "b7156d7b-25ac-488c-94ce-bcf4b403482e",
+      "name": "Abhimanyu",
+      "password": "password123",
+      "role": "student",
+      "email": "abhimanyu@school.edu",
+      "subjectIds": [
+        "60a7d0a6-6919-4060-87dd-5c547d8e0f76",
+        "f6d99d1c-f7e5-4c91-b212-7af7614dfe8b",
+        "68623fd0-700a-4079-8c7c-b512bf3e2652",
+        "48b34cec-7c62-4d06-902f-0a173aec72e5",
+        "cda9286a-56cd-4f44-b851-5d53afe9e982"
+      ]
+    },
+    {
+      "id": "4be9f946-a3a8-440a-801a-431b485c212c",
+      "name": "Swathi",
+      "password": "password123",
+      "role": "student",
+      "email": "swathi@school.edu",
+      "subjectIds": [
+        "60a7d0a6-6919-4060-87dd-5c547d8e0f76",
+        "f6d99d1c-f7e5-4c91-b212-7af7614dfe8b",
+        "68623fd0-700a-4079-8c7c-b512bf3e2652",
+        "48b34cec-7c62-4d06-902f-0a173aec72e5",
+        "cda9286a-56cd-4f44-b851-5d53afe9e982"
+      ]
+    },
+    {
+      "id": "342f060f-af41-4748-a3b1-8bf129b93ee2",
+      "name": "Anusri",
+      "password": "password123",
+      "role": "student",
+      "email": "anusri@school.edu",
+      "subjectIds": [
+        "60a7d0a6-6919-4060-87dd-5c547d8e0f76",
+        "f6d99d1c-f7e5-4c91-b212-7af7614dfe8b",
+        "68623fd0-700a-4079-8c7c-b512bf3e2652",
+        "48b34cec-7c62-4d06-902f-0a173aec72e5",
+        "cda9286a-56cd-4f44-b851-5d53afe9e982"
+      ]
+    },
+    {
+      "id": "0e987c50-340b-4414-a076-aaff7f93f940",
+      "name": "Siri",
+      "password": "password123",
+      "role": "student",
+      "email": "siri@school.edu",
+      "subjectIds": [
+        "60a7d0a6-6919-4060-87dd-5c547d8e0f76",
+        "f6d99d1c-f7e5-4c91-b212-7af7614dfe8b",
+        "68623fd0-700a-4079-8c7c-b512bf3e2652",
+        "48b34cec-7c62-4d06-902f-0a173aec72e5",
+        "cda9286a-56cd-4f44-b851-5d53afe9e982"
+      ]
+    },
+    {
+      "id": "25674055-4256-4b61-a7e5-972757215d4a",
+      "name": "Prof. Raghav",
+      "password": "password1234",
+      "role": "faculty",
+      "email": "raghav@school.edu",
+      "subjectId": "60a7d0a6-6919-4060-87dd-5c547d8e0f76",
+      "subjectName": "Computer Science I",
+      "studentIds": [
+        "685afc86-ab3b-46ac-b1ec-15d5478dadfa",
+        "19340f76-fd61-440e-b1ef-b87168687c52",
+        "5b392151-8e16-454a-9e51-6c4ecc67b57e",
+        "31a5c2d9-048c-49dc-b08d-e36384e21f4b",
+        "66a078d3-2be0-46bc-a9b2-fb80a3c76a20",
+        "19051068-c6bb-44b8-a82a-a79da616a27d",
+        "b7156d7b-25ac-488c-94ce-bcf4b403482e",
+        "4be9f946-a3a8-440a-801a-431b485c212c",
+        "342f060f-af41-4748-a3b1-8bf129b93ee2",
+        "0e987c50-340b-4414-a076-aaff7f93f940"
+      ]
+    },
+    {
+      "id": "67e7b01d-4f27-49cb-a08f-a187e89cc7af",
+      "name": "Prof. Anjali",
+      "password": "password123",
+      "role": "faculty",
+      "email": "anjali@school.edu",
+      "subjectId": "f6d99d1c-f7e5-4c91-b212-7af7614dfe8b",
+      "subjectName": "Calculus I",
+      "studentIds": [
+        "685afc86-ab3b-46ac-b1ec-15d5478dadfa",
+        "19340f76-fd61-440e-b1ef-b87168687c52",
+        "5b392151-8e16-454a-9e51-6c4ecc67b57e",
+        "31a5c2d9-048c-49dc-b08d-e36384e21f4b",
+        "66a078d3-2be0-46bc-a9b2-fb80a3c76a20",
+        "19051068-c6bb-44b8-a82a-a79da616a27d",
+        "b7156d7b-25ac-488c-94ce-bcf4b403482e",
+        "4be9f946-a3a8-440a-801a-431b485c212c",
+        "342f060f-af41-4748-a3b1-8bf129b93ee2",
+        "0e987c50-340b-4414-a076-aaff7f93f940"
+      ]
+    },
+    {
+      "id": "27e82f9c-1fad-4070-a899-d59a3d4c3321",
+      "name": "Prof. Prasad",
+      "password": "password123",
+      "role": "faculty",
+      "email": "prasad@school.edu",
+      "subjectId": "68623fd0-700a-4079-8c7c-b512bf3e2652",
+      "subjectName": "Physics I",
+      "studentIds": [
+        "685afc86-ab3b-46ac-b1ec-15d5478dadfa",
+        "19340f76-fd61-440e-b1ef-b87168687c52",
+        "5b392151-8e16-454a-9e51-6c4ecc67b57e",
+        "31a5c2d9-048c-49dc-b08d-e36384e21f4b",
+        "66a078d3-2be0-46bc-a9b2-fb80a3c76a20",
+        "19051068-c6bb-44b8-a82a-a79da616a27d",
+        "b7156d7b-25ac-488c-94ce-bcf4b403482e",
+        "4be9f946-a3a8-440a-801a-431b485c212c",
+        "342f060f-af41-4748-a3b1-8bf129b93ee2",
+        "0e987c50-340b-4414-a076-aaff7f93f940"
+      ]
+    },
+    {
+      "id": "d8397cc9-928f-49e5-a210-bc4f2398e7f2",
+      "name": "Prof. Kavitha",
+      "password": "password123",
+      "role": "faculty",
+      "email": "kavitha@school.edu",
+      "subjectId": "48b34cec-7c62-4d06-902f-0a173aec72e5",
+      "subjectName": "Chemistry I",
+      "studentIds": [
+        "685afc86-ab3b-46ac-b1ec-15d5478dadfa",
+        "19340f76-fd61-440e-b1ef-b87168687c52",
+        "5b392151-8e16-454a-9e51-6c4ecc67b57e",
+        "31a5c2d9-048c-49dc-b08d-e36384e21f4b",
+        "66a078d3-2be0-46bc-a9b2-fb80a3c76a20",
+        "19051068-c6bb-44b8-a82a-a79da616a27d",
+        "b7156d7b-25ac-488c-94ce-bcf4b403482e",
+        "4be9f946-a3a8-440a-801a-431b485c212c",
+        "342f060f-af41-4748-a3b1-8bf129b93ee2",
+        "0e987c50-340b-4414-a076-aaff7f93f940"
+      ]
+    },
+    {
+      "id": "e5b9b63a-b817-497c-a71a-1ab73288a0f9",
+      "name": "Prof. Ranjith",
+      "password": "password123",
+      "role": "faculty",
+      "email": "ranjith@school.edu",
+      "subjectId": "cda9286a-56cd-4f44-b851-5d53afe9e982",
+      "subjectName": "Biology I",
+      "studentIds": [
+        "685afc86-ab3b-46ac-b1ec-15d5478dadfa",
+        "19340f76-fd61-440e-b1ef-b87168687c52",
+        "5b392151-8e16-454a-9e51-6c4ecc67b57e",
+        "31a5c2d9-048c-49dc-b08d-e36384e21f4b",
+        "66a078d3-2be0-46bc-a9b2-fb80a3c76a20",
+        "19051068-c6bb-44b8-a82a-a79da616a27d",
+        "b7156d7b-25ac-488c-94ce-bcf4b403482e",
+        "4be9f946-a3a8-440a-801a-431b485c212c",
+        "342f060f-af41-4748-a3b1-8bf129b93ee2",
+        "0e987c50-340b-4414-a076-aaff7f93f940"
+      ]
+    },
+    {
+      "id": "user-2d4b9ee6-d151-4825-a93e-c5c03edcfb41",
+      "name": "Akash",
+      "password": "password123",
+      "email": "akash@studentedu",
+      "role": "student",
+      "subjectIds": [
+        "60a7d0a6-6919-4060-87dd-5c547d8e0f76",
+        "f6d99d1c-f7e5-4c91-b212-7af7614dfe8b",
+        "68623fd0-700a-4079-8c7c-b512bf3e2652",
+        "48b34cec-7c62-4d06-902f-0a173aec72e5",
+        "cda9286a-56cd-4f44-b851-5d53afe9e982"
+      ]
+    },
+    {
+      "id": "user-bf8111be-21a2-450e-8e2c-dc239b51add6",
+      "name": "Bhavya",
+      "password": "password123",
+      "email": "bhavya@studentedu",
+      "role": "faculty",
+      "subjectId": "48b34cec-7c62-4d06-902f-0a173aec72e5",
+      "subjectName": "Chemistry I",
+      "studentIds": [
+        "685afc86-ab3b-46ac-b1ec-15d5478dadfa",
+        "19340f76-fd61-440e-b1ef-b87168687c52",
+        "5b392151-8e16-454a-9e51-6c4ecc67b57e",
+        "31a5c2d9-048c-49dc-b08d-e36384e21f4b",
+        "66a078d3-2be0-46bc-a9b2-fb80a3c76a20",
+        "19051068-c6bb-44b8-a82a-a79da616a27d",
+        "b7156d7b-25ac-488c-94ce-bcf4b403482e",
+        "4be9f946-a3a8-440a-801a-431b485c212c",
+        "342f060f-af41-4748-a3b1-8bf129b93ee2",
+        "0e987c50-340b-4414-a076-aaff7f93f940",
+        "user-2d4b9ee6-d151-4825-a93e-c5c03edcfb41"
+      ]
+    },
+    {
+      "id": "user-088550d8-ccbb-40fb-9b4a-b1c1293d9337",
+      "name": "Uday",
+      "password": "password123",
+      "email": "uday@student",
+      "role": "student",
+      "subjectIds": [
+        "60a7d0a6-6919-4060-87dd-5c547d8e0f76",
+        "f6d99d1c-f7e5-4c91-b212-7af7614dfe8b",
+        "68623fd0-700a-4079-8c7c-b512bf3e2652",
+        "48b34cec-7c62-4d06-902f-0a173aec72e5",
+        "cda9286a-56cd-4f44-b851-5d53afe9e982"
+      ]
+    },
+    {
+      "id": "user-0b5b00ab-28bc-421a-a42c-941b27b219e6",
+      "name": "nitheesha",
+      "password": "nithu23",
+      "email": "nitheesha@gmail.com",
+      "role": "student",
+      "subjectIds": [
+        "60a7d0a6-6919-4060-87dd-5c547d8e0f76",
+        "f6d99d1c-f7e5-4c91-b212-7af7614dfe8b",
+        "68623fd0-700a-4079-8c7c-b512bf3e2652",
+        "48b34cec-7c62-4d06-902f-0a173aec72e5",
+        "cda9286a-56cd-4f44-b851-5d53afe9e982"
+      ]
+    }
+  ],
+  "students": [
+    {
+      "id": "685afc86-ab3b-46ac-b1ec-15d5478dadfa",
+      "name": "Priya",
+      "email": "priya@school.edu",
+      "subjectIds": [
+        "60a7d0a6-6919-4060-87dd-5c547d8e0f76",
+        "f6d99d1c-f7e5-4c91-b212-7af7614dfe8b",
+        "68623fd0-700a-4079-8c7c-b512bf3e2652",
+        "48b34cec-7c62-4d06-902f-0a173aec72e5",
+        "cda9286a-56cd-4f44-b851-5d53afe9e982"
+      ],
+      "attendance": [],
+      "grades": []
+    },
+    {
+      "id": "19340f76-fd61-440e-b1ef-b87168687c52",
+      "name": "Aarav",
+      "email": "aarav@school.edu",
+      "subjectIds": [
+        "60a7d0a6-6919-4060-87dd-5c547d8e0f76",
+        "f6d99d1c-f7e5-4c91-b212-7af7614dfe8b",
+        "68623fd0-700a-4079-8c7c-b512bf3e2652",
+        "48b34cec-7c62-4d06-902f-0a173aec72e5",
+        "cda9286a-56cd-4f44-b851-5d53afe9e982"
+      ],
+      "attendance": [],
+      "grades": []
+    },
+    {
+      "id": "5b392151-8e16-454a-9e51-6c4ecc67b57e",
+      "name": "Abhir",
+      "email": "abhir@school.edu",
+      "subjectIds": [
+        "60a7d0a6-6919-4060-87dd-5c547d8e0f76",
+        "f6d99d1c-f7e5-4c91-b212-7af7614dfe8b",
+        "68623fd0-700a-4079-8c7c-b512bf3e2652",
+        "48b34cec-7c62-4d06-902f-0a173aec72e5",
+        "cda9286a-56cd-4f44-b851-5d53afe9e982"
+      ],
+      "attendance": [],
+      "grades": []
+    },
+    {
+      "id": "31a5c2d9-048c-49dc-b08d-e36384e21f4b",
+      "name": "Rohan",
+      "email": "rohan@school.edu",
+      "subjectIds": [
+        "60a7d0a6-6919-4060-87dd-5c547d8e0f76",
+        "f6d99d1c-f7e5-4c91-b212-7af7614dfe8b",
+        "68623fd0-700a-4079-8c7c-b512bf3e2652",
+        "48b34cec-7c62-4d06-902f-0a173aec72e5",
+        "cda9286a-56cd-4f44-b851-5d53afe9e982"
+      ],
+      "attendance": [],
+      "grades": []
+    },
+    {
+      "id": "66a078d3-2be0-46bc-a9b2-fb80a3c76a20",
+      "name": "Siddharth",
+      "email": "siddharth@school.edu",
+      "subjectIds": [
+        "60a7d0a6-6919-4060-87dd-5c547d8e0f76",
+        "f6d99d1c-f7e5-4c91-b212-7af7614dfe8b",
+        "68623fd0-700a-4079-8c7c-b512bf3e2652",
+        "48b34cec-7c62-4d06-902f-0a173aec72e5",
+        "cda9286a-56cd-4f44-b851-5d53afe9e982"
+      ],
+      "attendance": [],
+      "grades": []
+    },
+    {
+      "id": "19051068-c6bb-44b8-a82a-a79da616a27d",
+      "name": "Ravi",
+      "email": "ravi@school.edu",
+      "subjectIds": [
+        "60a7d0a6-6919-4060-87dd-5c547d8e0f76",
+        "f6d99d1c-f7e5-4c91-b212-7af7614dfe8b",
+        "68623fd0-700a-4079-8c7c-b512bf3e2652",
+        "48b34cec-7c62-4d06-902f-0a173aec72e5",
+        "cda9286a-56cd-4f44-b851-5d53afe9e982"
+      ],
+      "attendance": [],
+      "grades": []
+    },
+    {
+      "id": "b7156d7b-25ac-488c-94ce-bcf4b403482e",
+      "name": "Abhimanyu",
+      "email": "abhimanyu@school.edu",
+      "subjectIds": [
+        "60a7d0a6-6919-4060-87dd-5c547d8e0f76",
+        "f6d99d1c-f7e5-4c91-b212-7af7614dfe8b",
+        "68623fd0-700a-4079-8c7c-b512bf3e2652",
+        "48b34cec-7c62-4d06-902f-0a173aec72e5",
+        "cda9286a-56cd-4f44-b851-5d53afe9e982"
+      ],
+      "attendance": [],
+      "grades": []
+    },
+    {
+      "id": "4be9f946-a3a8-440a-801a-431b485c212c",
+      "name": "Swathi",
+      "email": "swathi@school.edu",
+      "subjectIds": [
+        "60a7d0a6-6919-4060-87dd-5c547d8e0f76",
+        "f6d99d1c-f7e5-4c91-b212-7af7614dfe8b",
+        "68623fd0-700a-4079-8c7c-b512bf3e2652",
+        "48b34cec-7c62-4d06-902f-0a173aec72e5",
+        "cda9286a-56cd-4f44-b851-5d53afe9e982"
+      ],
+      "attendance": [],
+      "grades": []
+    },
+    {
+      "id": "342f060f-af41-4748-a3b1-8bf129b93ee2",
+      "name": "Anusri",
+      "email": "anusri@school.edu",
+      "subjectIds": [
+        "60a7d0a6-6919-4060-87dd-5c547d8e0f76",
+        "f6d99d1c-f7e5-4c91-b212-7af7614dfe8b",
+        "68623fd0-700a-4079-8c7c-b512bf3e2652",
+        "48b34cec-7c62-4d06-902f-0a173aec72e5",
+        "cda9286a-56cd-4f44-b851-5d53afe9e982"
+      ],
+      "attendance": [],
+      "grades": []
+    },
+    {
+      "id": "0e987c50-340b-4414-a076-aaff7f93f940",
+      "name": "Siri",
+      "email": "siri@school.edu",
+      "subjectIds": [
+        "60a7d0a6-6919-4060-87dd-5c547d8e0f76",
+        "f6d99d1c-f7e5-4c91-b212-7af7614dfe8b",
+        "68623fd0-700a-4079-8c7c-b512bf3e2652",
+        "48b34cec-7c62-4d06-902f-0a173aec72e5",
+        "cda9286a-56cd-4f44-b851-5d53afe9e982"
+      ],
+      "attendance": [],
+      "grades": []
+    },
+    {
+      "id": "user-2d4b9ee6-d151-4825-a93e-c5c03edcfb41",
+      "name": "Akash",
+      "email": "akash@studentedu",
+      "subjectIds": [
+        "60a7d0a6-6919-4060-87dd-5c547d8e0f76",
+        "f6d99d1c-f7e5-4c91-b212-7af7614dfe8b",
+        "68623fd0-700a-4079-8c7c-b512bf3e2652",
+        "48b34cec-7c62-4d06-902f-0a173aec72e5",
+        "cda9286a-56cd-4f44-b851-5d53afe9e982"
+      ],
+      "attendance": [],
+      "grades": []
+    },
+    {
+      "id": "user-088550d8-ccbb-40fb-9b4a-b1c1293d9337",
+      "name": "Uday",
+      "email": "uday@student",
+      "subjectIds": [
+        "60a7d0a6-6919-4060-87dd-5c547d8e0f76",
+        "f6d99d1c-f7e5-4c91-b212-7af7614dfe8b",
+        "68623fd0-700a-4079-8c7c-b512bf3e2652",
+        "48b34cec-7c62-4d06-902f-0a173aec72e5",
+        "cda9286a-56cd-4f44-b851-5d53afe9e982"
+      ],
+      "attendance": [],
+      "grades": []
+    },
+    {
+      "id": "user-0b5b00ab-28bc-421a-a42c-941b27b219e6",
+      "name": "nitheesha",
+      "email": "nitheesha@gmail.com",
+      "subjectIds": [
+        "60a7d0a6-6919-4060-87dd-5c547d8e0f76",
+        "f6d99d1c-f7e5-4c91-b212-7af7614dfe8b",
+        "68623fd0-700a-4079-8c7c-b512bf3e2652",
+        "48b34cec-7c62-4d06-902f-0a173aec72e5",
+        "cda9286a-56cd-4f44-b851-5d53afe9e982"
+      ],
+      "attendance": [],
+      "grades": []
+    }
+  ],
+  "faculty": [
+    {
+      "id": "25674055-4256-4b61-a7e5-972757215d4a",
+      "name": "Prof. Raghav",
+      "email": "raghav@school.edu",
+      "subjectId": "60a7d0a6-6919-4060-87dd-5c547d8e0f76",
+      "subjectName": "Computer Science I",
+      "studentIds": [
+        "685afc86-ab3b-46ac-b1ec-15d5478dadfa",
+        "19340f76-fd61-440e-b1ef-b87168687c52",
+        "5b392151-8e16-454a-9e51-6c4ecc67b57e",
+        "31a5c2d9-048c-49dc-b08d-e36384e21f4b",
+        "66a078d3-2be0-46bc-a9b2-fb80a3c76a20",
+        "19051068-c6bb-44b8-a82a-a79da616a27d",
+        "b7156d7b-25ac-488c-94ce-bcf4b403482e",
+        "4be9f946-a3a8-440a-801a-431b485c212c",
+        "342f060f-af41-4748-a3b1-8bf129b93ee2",
+        "0e987c50-340b-4414-a076-aaff7f93f940",
+        "user-2d4b9ee6-d151-4825-a93e-c5c03edcfb41",
+        "user-088550d8-ccbb-40fb-9b4a-b1c1293d9337",
+        "user-0b5b00ab-28bc-421a-a42c-941b27b219e6"
+      ]
+    },
+    {
+      "id": "67e7b01d-4f27-49cb-a08f-a187e89cc7af",
+      "name": "Prof. Anjali",
+      "email": "anjali@school.edu",
+      "subjectId": "f6d99d1c-f7e5-4c91-b212-7af7614dfe8b",
+      "subjectName": "Calculus I",
+      "studentIds": [
+        "685afc86-ab3b-46ac-b1ec-15d5478dadfa",
+        "19340f76-fd61-440e-b1ef-b87168687c52",
+        "5b392151-8e16-454a-9e51-6c4ecc67b57e",
+        "31a5c2d9-048c-49dc-b08d-e36384e21f4b",
+        "66a078d3-2be0-46bc-a9b2-fb80a3c76a20",
+        "19051068-c6bb-44b8-a82a-a79da616a27d",
+        "b7156d7b-25ac-488c-94ce-bcf4b403482e",
+        "4be9f946-a3a8-440a-801a-431b485c212c",
+        "342f060f-af41-4748-a3b1-8bf129b93ee2",
+        "0e987c50-340b-4414-a076-aaff7f93f940",
+        "user-2d4b9ee6-d151-4825-a93e-c5c03edcfb41",
+        "user-088550d8-ccbb-40fb-9b4a-b1c1293d9337",
+        "user-0b5b00ab-28bc-421a-a42c-941b27b219e6"
+      ]
+    },
+    {
+      "id": "27e82f9c-1fad-4070-a899-d59a3d4c3321",
+      "name": "Prof. Prasad ",
+      "email": "prasad@school.edu",
+      "subjectId": "68623fd0-700a-4079-8c7c-b512bf3e2652",
+      "subjectName": "Physics I",
+      "studentIds": [
+        "685afc86-ab3b-46ac-b1ec-15d5478dadfa",
+        "19340f76-fd61-440e-b1ef-b87168687c52",
+        "5b392151-8e16-454a-9e51-6c4ecc67b57e",
+        "31a5c2d9-048c-49dc-b08d-e36384e21f4b",
+        "66a078d3-2be0-46bc-a9b2-fb80a3c76a20",
+        "19051068-c6bb-44b8-a82a-a79da616a27d",
+        "b7156d7b-25ac-488c-94ce-bcf4b403482e",
+        "4be9f946-a3a8-440a-801a-431b485c212c",
+        "342f060f-af41-4748-a3b1-8bf129b93ee2",
+        "0e987c50-340b-4414-a076-aaff7f93f940",
+        "user-2d4b9ee6-d151-4825-a93e-c5c03edcfb41",
+        "user-088550d8-ccbb-40fb-9b4a-b1c1293d9337",
+        "user-0b5b00ab-28bc-421a-a42c-941b27b219e6"
+      ]
+    },
+    {
+      "id": "d8397cc9-928f-49e5-a210-bc4f2398e7f2",
+      "name": "Prof. Kavitha",
+      "email": "kavitha@school.edu",
+      "subjectId": "48b34cec-7c62-4d06-902f-0a173aec72e5",
+      "subjectName": "Chemistry I",
+      "studentIds": [
+        "685afc86-ab3b-46ac-b1ec-15d5478dadfa",
+        "19340f76-fd61-440e-b1ef-b87168687c52",
+        "5b392151-8e16-454a-9e51-6c4ecc67b57e",
+        "31a5c2d9-048c-49dc-b08d-e36384e21f4b",
+        "66a078d3-2be0-46bc-a9b2-fb80a3c76a20",
+        "19051068-c6bb-44b8-a82a-a79da616a27d",
+        "b7156d7b-25ac-488c-94ce-bcf4b403482e",
+        "4be9f946-a3a8-440a-801a-431b485c212c",
+        "342f060f-af41-4748-a3b1-8bf129b93ee2",
+        "0e987c50-340b-4414-a076-aaff7f93f940",
+        "user-2d4b9ee6-d151-4825-a93e-c5c03edcfb41",
+        "user-088550d8-ccbb-40fb-9b4a-b1c1293d9337",
+        "user-0b5b00ab-28bc-421a-a42c-941b27b219e6"
+      ]
+    },
+    {
+      "id": "e5b9b63a-b817-497c-a71a-1ab73288a0f9",
+      "name": "Prof. Ranjith",
+      "email": "ranjith@school.edu",
+      "subjectId": "cda9286a-56cd-4f44-b851-5d53afe9e982",
+      "subjectName": "Biology I",
+      "studentIds": [
+        "685afc86-ab3b-46ac-b1ec-15d5478dadfa",
+        "19340f76-fd61-440e-b1ef-b87168687c52",
+        "5b392151-8e16-454a-9e51-6c4ecc67b57e",
+        "31a5c2d9-048c-49dc-b08d-e36384e21f4b",
+        "66a078d3-2be0-46bc-a9b2-fb80a3c76a20",
+        "19051068-c6bb-44b8-a82a-a79da616a27d",
+        "b7156d7b-25ac-488c-94ce-bcf4b403482e",
+        "4be9f946-a3a8-440a-801a-431b485c212c",
+        "342f060f-af41-4748-a3b1-8bf129b93ee2",
+        "0e987c50-340b-4414-a076-aaff7f93f940",
+        "user-2d4b9ee6-d151-4825-a93e-c5c03edcfb41",
+        "user-088550d8-ccbb-40fb-9b4a-b1c1293d9337",
+        "user-0b5b00ab-28bc-421a-a42c-941b27b219e6"
+      ]
+    },
+    {
+      "id": "user-bf8111be-21a2-450e-8e2c-dc239b51add6",
+      "name": "Bhavya",
+      "email": "bhavya@studentedu",
+      "subjectId": "48b34cec-7c62-4d06-902f-0a173aec72e5",
+      "subjectName": "Chemistry I",
+      "studentIds": [
+        "685afc86-ab3b-46ac-b1ec-15d5478dadfa",
+        "19340f76-fd61-440e-b1ef-b87168687c52",
+        "5b392151-8e16-454a-9e51-6c4ecc67b57e",
+        "31a5c2d9-048c-49dc-b08d-e36384e21f4b",
+        "66a078d3-2be0-46bc-a9b2-fb80a3c76a20",
+        "19051068-c6bb-44b8-a82a-a79da616a27d",
+        "b7156d7b-25ac-488c-94ce-bcf4b403482e",
+        "4be9f946-a3a8-440a-801a-431b485c212c",
+        "342f060f-af41-4748-a3b1-8bf129b93ee2",
+        "0e987c50-340b-4414-a076-aaff7f93f940",
+        "user-2d4b9ee6-d151-4825-a93e-c5c03edcfb41",
+        "user-088550d8-ccbb-40fb-9b4a-b1c1293d9337",
+        "user-0b5b00ab-28bc-421a-a42c-941b27b219e6"
+      ]
+    }
+  ],
+  "subjects": [
+    {
+      "id": "60a7d0a6-6919-4060-87dd-5c547d8e0f76",
+      "name": "Computer Science I",
+      "code": "CS101",
+      "facultyId": "25674055-4256-4b61-a7e5-972757215d4a",
+      "studentIds": [
+        "685afc86-ab3b-46ac-b1ec-15d5478dadfa",
+        "19340f76-fd61-440e-b1ef-b87168687c52",
+        "5b392151-8e16-454a-9e51-6c4ecc67b57e",
+        "31a5c2d9-048c-49dc-b08d-e36384e21f4b",
+        "66a078d3-2be0-46bc-a9b2-fb80a3c76a20",
+        "19051068-c6bb-44b8-a82a-a79da616a27d",
+        "b7156d7b-25ac-488c-94ce-bcf4b403482e",
+        "4be9f946-a3a8-440a-801a-431b485c212c",
+        "342f060f-af41-4748-a3b1-8bf129b93ee2",
+        "0e987c50-340b-4414-a076-aaff7f93f940",
+        "user-2d4b9ee6-d151-4825-a93e-c5c03edcfb41",
+        "user-088550d8-ccbb-40fb-9b4a-b1c1293d9337",
+        "user-0b5b00ab-28bc-421a-a42c-941b27b219e6"
+      ]
+    },
+    {
+      "id": "f6d99d1c-f7e5-4c91-b212-7af7614dfe8b",
+      "name": "Calculus I",
+      "code": "MA101",
+      "facultyId": "67e7b01d-4f27-49cb-a08f-a187e89cc7af",
+      "studentIds": [
+        "685afc86-ab3b-46ac-b1ec-15d5478dadfa",
+        "19340f76-fd61-440e-b1ef-b87168687c52",
+        "5b392151-8e16-454a-9e51-6c4ecc67b57e",
+        "31a5c2d9-048c-49dc-b08d-e36384e21f4b",
+        "66a078d3-2be0-46bc-a9b2-fb80a3c76a20",
+        "19051068-c6bb-44b8-a82a-a79da616a27d",
+        "b7156d7b-25ac-488c-94ce-bcf4b403482e",
+        "4be9f946-a3a8-440a-801a-431b485c212c",
+        "342f060f-af41-4748-a3b1-8bf129b93ee2",
+        "0e987c50-340b-4414-a076-aaff7f93f940",
+        "user-2d4b9ee6-d151-4825-a93e-c5c03edcfb41",
+        "user-088550d8-ccbb-40fb-9b4a-b1c1293d9337",
+        "user-0b5b00ab-28bc-421a-a42c-941b27b219e6"
+      ]
+    },
+    {
+      "id": "68623fd0-700a-4079-8c7c-b512bf3e2652",
+      "name": "Physics I",
+      "code": "PH101",
+      "facultyId": "27e82f9c-1fad-4070-a899-d59a3d4c3321",
+      "studentIds": [
+        "685afc86-ab3b-46ac-b1ec-15d5478dadfa",
+        "19340f76-fd61-440e-b1ef-b87168687c52",
+        "5b392151-8e16-454a-9e51-6c4ecc67b57e",
+        "31a5c2d9-048c-49dc-b08d-e36384e21f4b",
+        "66a078d3-2be0-46bc-a9b2-fb80a3c76a20",
+        "19051068-c6bb-44b8-a82a-a79da616a27d",
+        "b7156d7b-25ac-488c-94ce-bcf4b403482e",
+        "4be9f946-a3a8-440a-801a-431b485c212c",
+        "342f060f-af41-4748-a3b1-8bf129b93ee2",
+        "0e987c50-340b-4414-a076-aaff7f93f940",
+        "user-2d4b9ee6-d151-4825-a93e-c5c03edcfb41",
+        "user-088550d8-ccbb-40fb-9b4a-b1c1293d9337",
+        "user-0b5b00ab-28bc-421a-a42c-941b27b219e6"
+      ]
+    },
+    {
+      "id": "48b34cec-7c62-4d06-902f-0a173aec72e5",
+      "name": "Chemistry I",
+      "code": "CH101",
+      "facultyId": "user-bf8111be-21a2-450e-8e2c-dc239b51add6",
+      "studentIds": [
+        "685afc86-ab3b-46ac-b1ec-15d5478dadfa",
+        "19340f76-fd61-440e-b1ef-b87168687c52",
+        "5b392151-8e16-454a-9e51-6c4ecc67b57e",
+        "31a5c2d9-048c-49dc-b08d-e36384e21f4b",
+        "66a078d3-2be0-46bc-a9b2-fb80a3c76a20",
+        "19051068-c6bb-44b8-a82a-a79da616a27d",
+        "b7156d7b-25ac-488c-94ce-bcf4b403482e",
+        "4be9f946-a3a8-440a-801a-431b485c212c",
+        "342f060f-af41-4748-a3b1-8bf129b93ee2",
+        "0e987c50-340b-4414-a076-aaff7f93f940",
+        "user-2d4b9ee6-d151-4825-a93e-c5c03edcfb41",
+        "user-088550d8-ccbb-40fb-9b4a-b1c1293d9337",
+        "user-0b5b00ab-28bc-421a-a42c-941b27b219e6"
+      ]
+    },
+    {
+      "id": "cda9286a-56cd-4f44-b851-5d53afe9e982",
+      "name": "Biology I",
+      "code": "BI101",
+      "facultyId": "e5b9b63a-b817-497c-a71a-1ab73288a0f9",
+      "studentIds": [
+        "685afc86-ab3b-46ac-b1ec-15d5478dadfa",
+        "19340f76-fd61-440e-b1ef-b87168687c52",
+        "5b392151-8e16-454a-9e51-6c4ecc67b57e",
+        "31a5c2d9-048c-49dc-b08d-e36384e21f4b",
+        "66a078d3-2be0-46bc-a9b2-fb80a3c76a20",
+        "19051068-c6bb-44b8-a82a-a79da616a27d",
+        "b7156d7b-25ac-488c-94ce-bcf4b403482e",
+        "4be9f946-a3a8-440a-801a-431b485c212c",
+        "342f060f-af41-4748-a3b1-8bf129b93ee2",
+        "0e987c50-340b-4414-a076-aaff7f93f940",
+        "user-2d4b9ee6-d151-4825-a93e-c5c03edcfb41",
+        "user-088550d8-ccbb-40fb-9b4a-b1c1293d9337",
+        "user-0b5b00ab-28bc-421a-a42c-941b27b219e6"
+      ]
+    }
+  ],
+  "attendance": [
+    {
+      "id": "70778135-4ab7-40ea-bf4d-c1a8b6bc4418",
+      "studentId": "685afc86-ab3b-46ac-b1ec-15d5478dadfa",
+      "subjectId": "60a7d0a6-6919-4060-87dd-5c547d8e0f76",
+      "date": "2025-07-26",
+      "status": "absent",
+      "facultyId": "25674055-4256-4b61-a7e5-972757215d4a"
+    },
+    {
+      "id": "d4094f0a-6a1e-426e-ac1b-299b1f407872",
+      "studentId": "685afc86-ab3b-46ac-b1ec-15d5478dadfa",
+      "subjectId": "f6d99d1c-f7e5-4c91-b212-7af7614dfe8b",
+      "date": "2025-07-26",
+      "status": "present",
+      "facultyId": "67e7b01d-4f27-49cb-a08f-a187e89cc7af"
+    },
+    {
+      "id": "5e93311d-52f4-43e4-8dff-8354c8133f27",
+      "studentId": "685afc86-ab3b-46ac-b1ec-15d5478dadfa",
+      "subjectId": "68623fd0-700a-4079-8c7c-b512bf3e2652",
+      "date": "2025-07-26",
+      "status": "present",
+      "facultyId": "27e82f9c-1fad-4070-a899-d59a3d4c3321"
+    },
+    {
+      "id": "70f3761a-b557-43b7-a6f4-18682a513b19",
+      "studentId": "685afc86-ab3b-46ac-b1ec-15d5478dadfa",
+      "subjectId": "48b34cec-7c62-4d06-902f-0a173aec72e5",
+      "date": "2025-07-26",
+      "status": "absent",
+      "facultyId": "d8397cc9-928f-49e5-a210-bc4f2398e7f2"
+    },
+    {
+      "id": "dfbb56f5-3233-4fe5-8b17-f5a1fa6a2def",
+      "studentId": "685afc86-ab3b-46ac-b1ec-15d5478dadfa",
+      "subjectId": "cda9286a-56cd-4f44-b851-5d53afe9e982",
+      "date": "2025-07-26",
+      "status": "present",
+      "facultyId": "e5b9b63a-b817-497c-a71a-1ab73288a0f9"
+    },
+    {
+      "id": "c9855b20-72e1-448f-86dc-89150827bdf4",
+      "studentId": "19340f76-fd61-440e-b1ef-b87168687c52",
+      "subjectId": "60a7d0a6-6919-4060-87dd-5c547d8e0f76",
+      "date": "2025-07-26",
+      "status": "present",
+      "facultyId": "25674055-4256-4b61-a7e5-972757215d4a"
+    },
+    {
+      "id": "fe3ea100-24c4-419f-b05c-6bc1d2243546",
+      "studentId": "19340f76-fd61-440e-b1ef-b87168687c52",
+      "subjectId": "f6d99d1c-f7e5-4c91-b212-7af7614dfe8b",
+      "date": "2025-07-26",
+      "status": "present",
+      "facultyId": "67e7b01d-4f27-49cb-a08f-a187e89cc7af"
+    },
+    {
+      "id": "0323c891-73d2-4afc-b9fe-41e33698be6b",
+      "studentId": "19340f76-fd61-440e-b1ef-b87168687c52",
+      "subjectId": "68623fd0-700a-4079-8c7c-b512bf3e2652",
+      "date": "2025-07-26",
+      "status": "present",
+      "facultyId": "27e82f9c-1fad-4070-a899-d59a3d4c3321"
+    },
+    {
+      "id": "1dc551e7-3c99-4dd7-941b-366a8d771835",
+      "studentId": "19340f76-fd61-440e-b1ef-b87168687c52",
+      "subjectId": "48b34cec-7c62-4d06-902f-0a173aec72e5",
+      "date": "2025-07-26",
+      "status": "absent",
+      "facultyId": "d8397cc9-928f-49e5-a210-bc4f2398e7f2"
+    },
+    {
+      "id": "4f88e57d-a185-4e76-a579-20663132f591",
+      "studentId": "19340f76-fd61-440e-b1ef-b87168687c52",
+      "subjectId": "cda9286a-56cd-4f44-b851-5d53afe9e982",
+      "date": "2025-07-26",
+      "status": "absent",
+      "facultyId": "e5b9b63a-b817-497c-a71a-1ab73288a0f9"
+    },
+    {
+      "id": "deb60232-3e9f-46a0-b6bc-286f2114acce",
+      "studentId": "5b392151-8e16-454a-9e51-6c4ecc67b57e",
+      "subjectId": "60a7d0a6-6919-4060-87dd-5c547d8e0f76",
+      "date": "2025-07-26",
+      "status": "present",
+      "facultyId": "25674055-4256-4b61-a7e5-972757215d4a"
+    },
+    {
+      "id": "649caf74-10df-44e7-88b2-427ff0a420ec",
+      "studentId": "5b392151-8e16-454a-9e51-6c4ecc67b57e",
+      "subjectId": "f6d99d1c-f7e5-4c91-b212-7af7614dfe8b",
+      "date": "2025-07-26",
+      "status": "present",
+      "facultyId": "67e7b01d-4f27-49cb-a08f-a187e89cc7af"
+    },
+    {
+      "id": "ae73c8f2-a327-4930-a686-0ad45defb28e",
+      "studentId": "5b392151-8e16-454a-9e51-6c4ecc67b57e",
+      "subjectId": "68623fd0-700a-4079-8c7c-b512bf3e2652",
+      "date": "2025-07-26",
+      "status": "present",
+      "facultyId": "27e82f9c-1fad-4070-a899-d59a3d4c3321"
+    },
+    {
+      "id": "25ab0966-9f1d-45e9-bac4-8232f9838a2e",
+      "studentId": "5b392151-8e16-454a-9e51-6c4ecc67b57e",
+      "subjectId": "48b34cec-7c62-4d06-902f-0a173aec72e5",
+      "date": "2025-07-26",
+      "status": "present",
+      "facultyId": "d8397cc9-928f-49e5-a210-bc4f2398e7f2"
+    },
+    {
+      "id": "20ce89ca-d948-4501-9bc0-fc09f9a19442",
+      "studentId": "5b392151-8e16-454a-9e51-6c4ecc67b57e",
+      "subjectId": "cda9286a-56cd-4f44-b851-5d53afe9e982",
+      "date": "2025-07-26",
+      "status": "present",
+      "facultyId": "e5b9b63a-b817-497c-a71a-1ab73288a0f9"
+    },
+    {
+      "id": "550484b0-c6d2-4795-b854-daf79db3b7a2",
+      "studentId": "31a5c2d9-048c-49dc-b08d-e36384e21f4b",
+      "subjectId": "60a7d0a6-6919-4060-87dd-5c547d8e0f76",
+      "date": "2025-07-26",
+      "status": "present",
+      "facultyId": "25674055-4256-4b61-a7e5-972757215d4a"
+    },
+    {
+      "id": "e3cbfdfd-a008-4c6a-a721-ec82f501f10b",
+      "studentId": "31a5c2d9-048c-49dc-b08d-e36384e21f4b",
+      "subjectId": "f6d99d1c-f7e5-4c91-b212-7af7614dfe8b",
+      "date": "2025-07-26",
+      "status": "present",
+      "facultyId": "67e7b01d-4f27-49cb-a08f-a187e89cc7af"
+    },
+    {
+      "id": "78519bb2-4c29-48b7-b6c9-dadd4b06c653",
+      "studentId": "31a5c2d9-048c-49dc-b08d-e36384e21f4b",
+      "subjectId": "68623fd0-700a-4079-8c7c-b512bf3e2652",
+      "date": "2025-07-26",
+      "status": "absent",
+      "facultyId": "27e82f9c-1fad-4070-a899-d59a3d4c3321"
+    },
+    {
+      "id": "29b09410-70d7-4944-b64e-6ec2bfcb2f38",
+      "studentId": "31a5c2d9-048c-49dc-b08d-e36384e21f4b",
+      "subjectId": "48b34cec-7c62-4d06-902f-0a173aec72e5",
+      "date": "2025-07-26",
+      "status": "present",
+      "facultyId": "d8397cc9-928f-49e5-a210-bc4f2398e7f2"
+    },
+    {
+      "id": "5c30ab39-5d99-4283-b8f9-a462e7a38865",
+      "studentId": "31a5c2d9-048c-49dc-b08d-e36384e21f4b",
+      "subjectId": "cda9286a-56cd-4f44-b851-5d53afe9e982",
+      "date": "2025-07-26",
+      "status": "present",
+      "facultyId": "e5b9b63a-b817-497c-a71a-1ab73288a0f9"
+    },
+    {
+      "id": "3b23bb73-0eb3-4880-a65a-b8f8097f56b6",
+      "studentId": "66a078d3-2be0-46bc-a9b2-fb80a3c76a20",
+      "subjectId": "60a7d0a6-6919-4060-87dd-5c547d8e0f76",
+      "date": "2025-07-26",
+      "status": "present",
+      "facultyId": "25674055-4256-4b61-a7e5-972757215d4a"
+    },
+    {
+      "id": "adfe27f5-dea0-47c9-af12-5948a3459131",
+      "studentId": "66a078d3-2be0-46bc-a9b2-fb80a3c76a20",
+      "subjectId": "f6d99d1c-f7e5-4c91-b212-7af7614dfe8b",
+      "date": "2025-07-26",
+      "status": "absent",
+      "facultyId": "67e7b01d-4f27-49cb-a08f-a187e89cc7af"
+    },
+    {
+      "id": "5928caaf-21c0-48ca-aba2-41ffba92558a",
+      "studentId": "66a078d3-2be0-46bc-a9b2-fb80a3c76a20",
+      "subjectId": "68623fd0-700a-4079-8c7c-b512bf3e2652",
+      "date": "2025-07-26",
+      "status": "present",
+      "facultyId": "27e82f9c-1fad-4070-a899-d59a3d4c3321"
+    },
+    {
+      "id": "dbff5241-fc38-444f-88c6-589de8faa15b",
+      "studentId": "66a078d3-2be0-46bc-a9b2-fb80a3c76a20",
+      "subjectId": "48b34cec-7c62-4d06-902f-0a173aec72e5",
+      "date": "2025-07-26",
+      "status": "present",
+      "facultyId": "d8397cc9-928f-49e5-a210-bc4f2398e7f2"
+    },
+    {
+      "id": "b31cc007-0eb9-4d85-b252-62cd31f7fd3d",
+      "studentId": "66a078d3-2be0-46bc-a9b2-fb80a3c76a20",
+      "subjectId": "cda9286a-56cd-4f44-b851-5d53afe9e982",
+      "date": "2025-07-26",
+      "status": "absent",
+      "facultyId": "e5b9b63a-b817-497c-a71a-1ab73288a0f9"
+    },
+    {
+      "id": "93651908-0ba8-4282-ae23-592460b3c3f5",
+      "studentId": "19051068-c6bb-44b8-a82a-a79da616a27d",
+      "subjectId": "60a7d0a6-6919-4060-87dd-5c547d8e0f76",
+      "date": "2025-07-26",
+      "status": "present",
+      "facultyId": "25674055-4256-4b61-a7e5-972757215d4a"
+    },
+    {
+      "id": "8363da3d-45bb-45b7-9be8-7a9b59265ecc",
+      "studentId": "19051068-c6bb-44b8-a82a-a79da616a27d",
+      "subjectId": "f6d99d1c-f7e5-4c91-b212-7af7614dfe8b",
+      "date": "2025-07-26",
+      "status": "present",
+      "facultyId": "67e7b01d-4f27-49cb-a08f-a187e89cc7af"
+    },
+    {
+      "id": "c46eeea1-d807-434e-940e-8f1a6479cc10",
+      "studentId": "19051068-c6bb-44b8-a82a-a79da616a27d",
+      "subjectId": "68623fd0-700a-4079-8c7c-b512bf3e2652",
+      "date": "2025-07-26",
+      "status": "present",
+      "facultyId": "27e82f9c-1fad-4070-a899-d59a3d4c3321"
+    },
+    {
+      "id": "c11f4c83-10ec-4922-9442-f5bb5f4d3502",
+      "studentId": "19051068-c6bb-44b8-a82a-a79da616a27d",
+      "subjectId": "48b34cec-7c62-4d06-902f-0a173aec72e5",
+      "date": "2025-07-26",
+      "status": "absent",
+      "facultyId": "d8397cc9-928f-49e5-a210-bc4f2398e7f2"
+    },
+    {
+      "id": "6f7be976-67df-4e62-a415-936da2d75678",
+      "studentId": "19051068-c6bb-44b8-a82a-a79da616a27d",
+      "subjectId": "cda9286a-56cd-4f44-b851-5d53afe9e982",
+      "date": "2025-07-26",
+      "status": "present",
+      "facultyId": "e5b9b63a-b817-497c-a71a-1ab73288a0f9"
+    },
+    {
+      "id": "58e56749-e42f-4221-8f9c-261fc606601c",
+      "studentId": "b7156d7b-25ac-488c-94ce-bcf4b403482e",
+      "subjectId": "60a7d0a6-6919-4060-87dd-5c547d8e0f76",
+      "date": "2025-07-26",
+      "status": "present",
+      "facultyId": "25674055-4256-4b61-a7e5-972757215d4a"
+    },
+    {
+      "id": "8a092f23-c8cc-4cb6-b68d-e83d84f2b947",
+      "studentId": "b7156d7b-25ac-488c-94ce-bcf4b403482e",
+      "subjectId": "f6d99d1c-f7e5-4c91-b212-7af7614dfe8b",
+      "date": "2025-07-26",
+      "status": "present",
+      "facultyId": "67e7b01d-4f27-49cb-a08f-a187e89cc7af"
+    },
+    {
+      "id": "d4aaa8c6-5326-4baf-8017-cc30751c5274",
+      "studentId": "b7156d7b-25ac-488c-94ce-bcf4b403482e",
+      "subjectId": "68623fd0-700a-4079-8c7c-b512bf3e2652",
+      "date": "2025-07-26",
+      "status": "absent",
+      "facultyId": "27e82f9c-1fad-4070-a899-d59a3d4c3321"
+    },
+    {
+      "id": "e38c3d68-8c90-4232-9cc2-9d50344598d4",
+      "studentId": "b7156d7b-25ac-488c-94ce-bcf4b403482e",
+      "subjectId": "48b34cec-7c62-4d06-902f-0a173aec72e5",
+      "date": "2025-07-26",
+      "status": "present",
+      "facultyId": "d8397cc9-928f-49e5-a210-bc4f2398e7f2"
+    },
+    {
+      "id": "8d566e43-7809-4d9b-af05-6658e956a676",
+      "studentId": "b7156d7b-25ac-488c-94ce-bcf4b403482e",
+      "subjectId": "cda9286a-56cd-4f44-b851-5d53afe9e982",
+      "date": "2025-07-26",
+      "status": "present",
+      "facultyId": "e5b9b63a-b817-497c-a71a-1ab73288a0f9"
+    },
+    {
+      "id": "237b2f5e-1c8a-4399-88c0-f9c891cf1666",
+      "studentId": "4be9f946-a3a8-440a-801a-431b485c212c",
+      "subjectId": "60a7d0a6-6919-4060-87dd-5c547d8e0f76",
+      "date": "2025-07-26",
+      "status": "present",
+      "facultyId": "25674055-4256-4b61-a7e5-972757215d4a"
+    },
+    {
+      "id": "3a598f76-c124-448f-9fd5-38419d8f4da5",
+      "studentId": "4be9f946-a3a8-440a-801a-431b485c212c",
+      "subjectId": "f6d99d1c-f7e5-4c91-b212-7af7614dfe8b",
+      "date": "2025-07-26",
+      "status": "present",
+      "facultyId": "67e7b01d-4f27-49cb-a08f-a187e89cc7af"
+    },
+    {
+      "id": "fc306cb9-aba8-483b-b483-af1206d9b0d8",
+      "studentId": "4be9f946-a3a8-440a-801a-431b485c212c",
+      "subjectId": "68623fd0-700a-4079-8c7c-b512bf3e2652",
+      "date": "2025-07-26",
+      "status": "present",
+      "facultyId": "27e82f9c-1fad-4070-a899-d59a3d4c3321"
+    },
+    {
+      "id": "2eafa7e8-3094-4d1c-915f-f4e89eec540f",
+      "studentId": "4be9f946-a3a8-440a-801a-431b485c212c",
+      "subjectId": "48b34cec-7c62-4d06-902f-0a173aec72e5",
+      "date": "2025-07-26",
+      "status": "absent",
+      "facultyId": "d8397cc9-928f-49e5-a210-bc4f2398e7f2"
+    },
+    {
+      "id": "fdf01983-0c2d-438d-aee5-b2642e9b2459",
+      "studentId": "4be9f946-a3a8-440a-801a-431b485c212c",
+      "subjectId": "cda9286a-56cd-4f44-b851-5d53afe9e982",
+      "date": "2025-07-26",
+      "status": "present",
+      "facultyId": "e5b9b63a-b817-497c-a71a-1ab73288a0f9"
+    },
+    {
+      "id": "6338fe45-729c-4fe1-b8f7-0662daf023fc",
+      "studentId": "342f060f-af41-4748-a3b1-8bf129b93ee2",
+      "subjectId": "60a7d0a6-6919-4060-87dd-5c547d8e0f76",
+      "date": "2025-07-26",
+      "status": "present",
+      "facultyId": "25674055-4256-4b61-a7e5-972757215d4a"
+    },
+    {
+      "id": "f1b4bb67-f76e-4078-9a77-c446abe6e655",
+      "studentId": "342f060f-af41-4748-a3b1-8bf129b93ee2",
+      "subjectId": "f6d99d1c-f7e5-4c91-b212-7af7614dfe8b",
+      "date": "2025-07-26",
+      "status": "present",
+      "facultyId": "67e7b01d-4f27-49cb-a08f-a187e89cc7af"
+    },
+    {
+      "id": "7f88e53a-94f4-49ac-aa16-a55c6cd58c93",
+      "studentId": "342f060f-af41-4748-a3b1-8bf129b93ee2",
+      "subjectId": "68623fd0-700a-4079-8c7c-b512bf3e2652",
+      "date": "2025-07-26",
+      "status": "present",
+      "facultyId": "27e82f9c-1fad-4070-a899-d59a3d4c3321"
+    },
+    {
+      "id": "16724dcb-9b98-49d7-bc62-a5c610ccd470",
+      "studentId": "342f060f-af41-4748-a3b1-8bf129b93ee2",
+      "subjectId": "48b34cec-7c62-4d06-902f-0a173aec72e5",
+      "date": "2025-07-26",
+      "status": "present",
+      "facultyId": "d8397cc9-928f-49e5-a210-bc4f2398e7f2"
+    },
+    {
+      "id": "fc0cd9af-29a8-4888-88d9-a240d222eafc",
+      "studentId": "342f060f-af41-4748-a3b1-8bf129b93ee2",
+      "subjectId": "cda9286a-56cd-4f44-b851-5d53afe9e982",
+      "date": "2025-07-26",
+      "status": "present",
+      "facultyId": "e5b9b63a-b817-497c-a71a-1ab73288a0f9"
+    },
+    {
+      "id": "80e26053-8ec8-414d-8d5a-6f81425a6666",
+      "studentId": "0e987c50-340b-4414-a076-aaff7f93f940",
+      "subjectId": "60a7d0a6-6919-4060-87dd-5c547d8e0f76",
+      "date": "2025-07-26",
+      "status": "present",
+      "facultyId": "25674055-4256-4b61-a7e5-972757215d4a"
+    },
+    {
+      "id": "e1fe32d0-9d37-43bb-a4ca-bd9c1d3a5664",
+      "studentId": "0e987c50-340b-4414-a076-aaff7f93f940",
+      "subjectId": "f6d99d1c-f7e5-4c91-b212-7af7614dfe8b",
+      "date": "2025-07-26",
+      "status": "absent",
+      "facultyId": "67e7b01d-4f27-49cb-a08f-a187e89cc7af"
+    },
+    {
+      "id": "d9a2f06e-642e-4a9a-86e0-deb62e37252d",
+      "studentId": "0e987c50-340b-4414-a076-aaff7f93f940",
+      "subjectId": "68623fd0-700a-4079-8c7c-b512bf3e2652",
+      "date": "2025-07-26",
+      "status": "present",
+      "facultyId": "27e82f9c-1fad-4070-a899-d59a3d4c3321"
+    },
+    {
+      "id": "2b354376-a5fa-4390-b0ce-22e4a939444a",
+      "studentId": "0e987c50-340b-4414-a076-aaff7f93f940",
+      "subjectId": "48b34cec-7c62-4d06-902f-0a173aec72e5",
+      "date": "2025-07-26",
+      "status": "present",
+      "facultyId": "d8397cc9-928f-49e5-a210-bc4f2398e7f2"
+    },
+    {
+      "id": "540fd7e9-02a9-4803-8506-6d7eb280e693",
+      "studentId": "0e987c50-340b-4414-a076-aaff7f93f940",
+      "subjectId": "cda9286a-56cd-4f44-b851-5d53afe9e982",
+      "date": "2025-07-26",
+      "status": "present",
+      "facultyId": "e5b9b63a-b817-497c-a71a-1ab73288a0f9"
+    },
+    {
+      "id": "att-6d421bcf-8ff7-4a92-ad92-f13560ef3880",
+      "studentId": "685afc86-ab3b-46ac-b1ec-15d5478dadfa",
+      "subjectId": "60a7d0a6-6919-4060-87dd-5c547d8e0f76",
+      "date": "2025-07-29",
+      "status": "present",
+      "facultyId": "25674055-4256-4b61-a7e5-972757215d4a"
+    }
+  ],
+  "assignments": [
+    {
+      "id": "ae1c9553-8c08-4233-8d49-e49ef57e470c",
+      "title": "CS101 - Major Project (Prof. A)",
+      "description": "Complete the major project for Computer Science I.",
+      "subjectId": "60a7d0a6-6919-4060-87dd-5c547d8e0f76",
+      "facultyId": "25674055-4256-4b61-a7e5-972757215d4a",
+      "dueDate": "2025-08-02",
+      "createdAt": "2025-07-26T04:50:17.178Z",
+      "submissions": []
+    },
+    {
+      "id": "29a68e9e-3dc1-44c9-9146-e66a93559126",
+      "title": "MA101 - Major Project (Prof. B)",
+      "description": "Complete the major project for Calculus I.",
+      "subjectId": "f6d99d1c-f7e5-4c91-b212-7af7614dfe8b",
+      "facultyId": "67e7b01d-4f27-49cb-a08f-a187e89cc7af",
+      "dueDate": "2025-08-02",
+      "createdAt": "2025-07-26T04:50:17.178Z",
+      "submissions": [
+        {
+          "id": "sub-efa41ab4-3f9d-4dfb-bc93-1d379737fda8",
+          "assignmentId": "29a68e9e-3dc1-44c9-9146-e66a93559126",
+          "studentId": "user-2d4b9ee6-d151-4825-a93e-c5c03edcfb41",
+          "studentName": "Akash",
+          "fileName": "intershipreport_Udaykiran aadi _175 (1).docx",
+          "fileUrl": "blob:http://localhost:5173/60cbd316-99e8-4c62-aa1a-86730245625c",
+          "submittedAt": "2025-07-27T10:18:06.180Z"
+        }
+      ]
+    },
+    {
+      "id": "545c0868-a2eb-4fdf-abd5-99d3f82fe137",
+      "title": "PH101 - Major Project (Prof. C)",
+      "description": "Complete the major project for Physics I.",
+      "subjectId": "68623fd0-700a-4079-8c7c-b512bf3e2652",
+      "facultyId": "27e82f9c-1fad-4070-a899-d59a3d4c3321",
+      "dueDate": "2025-08-02",
+      "createdAt": "2025-07-26T04:50:17.178Z",
+      "submissions": []
+    },
+    {
+      "id": "b672cacc-d9ab-4ebf-8702-186f6aab6110",
+      "title": "CH101 - Major Project (Prof. D)",
+      "description": "Complete the major project for Chemistry I.",
+      "subjectId": "48b34cec-7c62-4d06-902f-0a173aec72e5",
+      "facultyId": "d8397cc9-928f-49e5-a210-bc4f2398e7f2",
+      "dueDate": "2025-08-02",
+      "createdAt": "2025-07-26T04:50:17.178Z",
+      "submissions": []
+    },
+    {
+      "id": "1d17fede-eb95-4093-949d-efa7b189aa1e",
+      "title": "BI101 - Major Project (Prof. E)",
+      "description": "Complete the major project for Biology I.",
+      "subjectId": "cda9286a-56cd-4f44-b851-5d53afe9e982",
+      "facultyId": "e5b9b63a-b817-497c-a71a-1ab73288a0f9",
+      "dueDate": "2025-08-02",
+      "createdAt": "2025-07-26T04:50:17.178Z",
+      "submissions": []
+    },
+    {
+      "id": "assign-1259bf55-bb9a-4dbf-b82d-6c8dcce0e5ea",
+      "title": "Trees",
+      "description": "solve the problems in the given pdf",
+      "subjectId": "60a7d0a6-6919-4060-87dd-5c547d8e0f76",
+      "facultyId": "25674055-4256-4b61-a7e5-972757215d4a",
+      "dueDate": "2025-07-29",
+      "createdAt": "2025-07-27T10:13:51.199Z",
+      "submissions": []
+    }
+  ],
+  "notices": [
+    {
+      "id": "93154437-6e1a-4f34-bfa9-bae28a8395fd",
+      "title": "Important: Computer Science I Updates",
+      "content": "Please check new materials for Computer Science I in your portal.",
+      "subjectId": "60a7d0a6-6919-4060-87dd-5c547d8e0f76",
+      "facultyId": "25674055-4256-4b61-a7e5-972757215d4a",
+      "createdAt": "2025-07-26T04:50:17.178Z"
+    },
+    {
+      "id": "7727d106-8eb5-4f90-a719-8a2e73f7b87c",
+      "title": "Important: Calculus I Updates",
+      "content": "Please check new materials for Calculus I in your portal.",
+      "subjectId": "f6d99d1c-f7e5-4c91-b212-7af7614dfe8b",
+      "facultyId": "67e7b01d-4f27-49cb-a08f-a187e89cc7af",
+      "createdAt": "2025-07-26T04:50:17.178Z"
+    },
+    {
+      "id": "55567b1e-dfa6-4d99-8353-1edf2ded6e3a",
+      "title": "Important: Physics I Updates",
+      "content": "Please check new materials for Physics I in your portal.",
+      "subjectId": "68623fd0-700a-4079-8c7c-b512bf3e2652",
+      "facultyId": "27e82f9c-1fad-4070-a899-d59a3d4c3321",
+      "createdAt": "2025-07-26T04:50:17.178Z"
+    },
+    {
+      "id": "5fe021d5-1553-4b81-b009-66fe37ee79da",
+      "title": "Important: Chemistry I Updates",
+      "content": "Please check new materials for Chemistry I in your portal.",
+      "subjectId": "48b34cec-7c62-4d06-902f-0a173aec72e5",
+      "facultyId": "d8397cc9-928f-49e5-a210-bc4f2398e7f2",
+      "createdAt": "2025-07-26T04:50:17.178Z"
+    },
+    {
+      "id": "69ee9e2e-280d-4abc-b2cb-12c142f21918",
+      "title": "Important: Biology I Updates",
+      "content": "Please check new materials for Biology I in your portal.",
+      "subjectId": "cda9286a-56cd-4f44-b851-5d53afe9e982",
+      "facultyId": "e5b9b63a-b817-497c-a71a-1ab73288a0f9",
+      "createdAt": "2025-07-26T04:50:17.178Z"
+    },
+    {
+      "id": "notice-0d5e3e9b-41a8-4fb8-bb6d-9ef482a7bb55",
+      "title": "holiday",
+      "content": "tomorrow is declared as holiday due to heavy rain",
+      "subjectId": "60a7d0a6-6919-4060-87dd-5c547d8e0f76",
+      "facultyId": "25674055-4256-4b61-a7e5-972757215d4a",
+      "createdAt": "2025-07-27T10:14:31.273Z"
+    }
+  ],
+  "grades": [
+    {
+      "id": "4c269510-924b-4b7a-959c-7dce69f522b1",
+      "studentId": "685afc86-ab3b-46ac-b1ec-15d5478dadfa",
+      "subjectId": "60a7d0a6-6919-4060-87dd-5c547d8e0f76",
+      "facultyId": "25674055-4256-4b61-a7e5-972757215d4a",
+      "semester": "Fall 2024",
+      "grade": "B-",
+      "points": 2.7,
+      "createdAt": "2025-07-26T04:50:17.178Z"
+    },
+    {
+      "id": "1c04765e-ad82-434b-9565-6d72e60ba10f",
+      "studentId": "685afc86-ab3b-46ac-b1ec-15d5478dadfa",
+      "subjectId": "f6d99d1c-f7e5-4c91-b212-7af7614dfe8b",
+      "facultyId": "67e7b01d-4f27-49cb-a08f-a187e89cc7af",
+      "semester": "Fall 2024",
+      "grade": "B-",
+      "points": 2.7,
+      "createdAt": "2025-07-26T04:50:17.178Z"
+    },
+    {
+      "id": "d4b69bb6-72f2-4856-b579-33cab48af352",
+      "studentId": "685afc86-ab3b-46ac-b1ec-15d5478dadfa",
+      "subjectId": "68623fd0-700a-4079-8c7c-b512bf3e2652",
+      "facultyId": "27e82f9c-1fad-4070-a899-d59a3d4c3321",
+      "semester": "Fall 2024",
+      "grade": "B+",
+      "points": 3.3,
+      "createdAt": "2025-07-26T04:50:17.178Z"
+    },
+    {
+      "id": "d410e71e-fcfe-4535-a7ac-e98d87be1685",
+      "studentId": "685afc86-ab3b-46ac-b1ec-15d5478dadfa",
+      "subjectId": "48b34cec-7c62-4d06-902f-0a173aec72e5",
+      "facultyId": "d8397cc9-928f-49e5-a210-bc4f2398e7f2",
+      "semester": "Fall 2024",
+      "grade": "A",
+      "points": 4,
+      "createdAt": "2025-07-26T04:50:17.178Z"
+    },
+    {
+      "id": "a3177865-fee7-48e1-af41-b95727a8fe69",
+      "studentId": "685afc86-ab3b-46ac-b1ec-15d5478dadfa",
+      "subjectId": "cda9286a-56cd-4f44-b851-5d53afe9e982",
+      "facultyId": "e5b9b63a-b817-497c-a71a-1ab73288a0f9",
+      "semester": "Fall 2024",
+      "grade": "B-",
+      "points": 2.7,
+      "createdAt": "2025-07-26T04:50:17.178Z"
+    },
+    {
+      "id": "44a0c24c-b9d0-4d2b-99c5-ff65347a1042",
+      "studentId": "19340f76-fd61-440e-b1ef-b87168687c52",
+      "subjectId": "60a7d0a6-6919-4060-87dd-5c547d8e0f76",
+      "facultyId": "25674055-4256-4b61-a7e5-972757215d4a",
+      "semester": "Fall 2024",
+      "grade": "B+",
+      "points": 3.3,
+      "createdAt": "2025-07-26T04:50:17.178Z"
+    },
+    {
+      "id": "743972f5-f56e-4755-b623-b748e8411d10",
+      "studentId": "19340f76-fd61-440e-b1ef-b87168687c52",
+      "subjectId": "f6d99d1c-f7e5-4c91-b212-7af7614dfe8b",
+      "facultyId": "67e7b01d-4f27-49cb-a08f-a187e89cc7af",
+      "semester": "Fall 2024",
+      "grade": "B+",
+      "points": 3.3,
+      "createdAt": "2025-07-26T04:50:17.178Z"
+    },
+    {
+      "id": "9aa46312-fb44-44db-9217-de9cb78ca792",
+      "studentId": "19340f76-fd61-440e-b1ef-b87168687c52",
+      "subjectId": "68623fd0-700a-4079-8c7c-b512bf3e2652",
+      "facultyId": "27e82f9c-1fad-4070-a899-d59a3d4c3321",
+      "semester": "Fall 2024",
+      "grade": "B-",
+      "points": 2.7,
+      "createdAt": "2025-07-26T04:50:17.178Z"
+    },
+    {
+      "id": "36892da8-4be9-4510-850f-2a67c6c6250e",
+      "studentId": "19340f76-fd61-440e-b1ef-b87168687c52",
+      "subjectId": "48b34cec-7c62-4d06-902f-0a173aec72e5",
+      "facultyId": "d8397cc9-928f-49e5-a210-bc4f2398e7f2",
+      "semester": "Fall 2024",
+      "grade": "A",
+      "points": 4,
+      "createdAt": "2025-07-26T04:50:17.178Z"
+    },
+    {
+      "id": "2135df33-069c-49c3-bc0f-64f2458f3cc3",
+      "studentId": "19340f76-fd61-440e-b1ef-b87168687c52",
+      "subjectId": "cda9286a-56cd-4f44-b851-5d53afe9e982",
+      "facultyId": "e5b9b63a-b817-497c-a71a-1ab73288a0f9",
+      "semester": "Fall 2024",
+      "grade": "B",
+      "points": 3,
+      "createdAt": "2025-07-26T04:50:17.179Z"
+    },
+    {
+      "id": "5503adbf-bdf3-41f8-a4ce-54c4b4a165e1",
+      "studentId": "5b392151-8e16-454a-9e51-6c4ecc67b57e",
+      "subjectId": "60a7d0a6-6919-4060-87dd-5c547d8e0f76",
+      "facultyId": "25674055-4256-4b61-a7e5-972757215d4a",
+      "semester": "Fall 2024",
+      "grade": "B-",
+      "points": 2.7,
+      "createdAt": "2025-07-26T04:50:17.179Z"
+    },
+    {
+      "id": "c6e5a1ea-d2bf-4969-96cc-1f357f81b6de",
+      "studentId": "5b392151-8e16-454a-9e51-6c4ecc67b57e",
+      "subjectId": "f6d99d1c-f7e5-4c91-b212-7af7614dfe8b",
+      "facultyId": "67e7b01d-4f27-49cb-a08f-a187e89cc7af",
+      "semester": "Fall 2024",
+      "grade": "B-",
+      "points": 2.7,
+      "createdAt": "2025-07-26T04:50:17.179Z"
+    },
+    {
+      "id": "1256e894-0023-41cb-a982-59c691b04c4a",
+      "studentId": "5b392151-8e16-454a-9e51-6c4ecc67b57e",
+      "subjectId": "68623fd0-700a-4079-8c7c-b512bf3e2652",
+      "facultyId": "27e82f9c-1fad-4070-a899-d59a3d4c3321",
+      "semester": "Fall 2024",
+      "grade": "A-",
+      "points": 3.7,
+      "createdAt": "2025-07-26T04:50:17.179Z"
+    },
+    {
+      "id": "295f1ba1-a0d7-4a76-9294-9348ea21d3c9",
+      "studentId": "5b392151-8e16-454a-9e51-6c4ecc67b57e",
+      "subjectId": "48b34cec-7c62-4d06-902f-0a173aec72e5",
+      "facultyId": "d8397cc9-928f-49e5-a210-bc4f2398e7f2",
+      "semester": "Fall 2024",
+      "grade": "B-",
+      "points": 2.7,
+      "createdAt": "2025-07-26T04:50:17.179Z"
+    },
+    {
+      "id": "f656a377-008e-494e-8449-446be015a48c",
+      "studentId": "5b392151-8e16-454a-9e51-6c4ecc67b57e",
+      "subjectId": "cda9286a-56cd-4f44-b851-5d53afe9e982",
+      "facultyId": "e5b9b63a-b817-497c-a71a-1ab73288a0f9",
+      "semester": "Fall 2024",
+      "grade": "C+",
+      "points": 2.3,
+      "createdAt": "2025-07-26T04:50:17.179Z"
+    },
+    {
+      "id": "6c90a7f1-c57d-4fd9-ac0a-004e34e63f9f",
+      "studentId": "31a5c2d9-048c-49dc-b08d-e36384e21f4b",
+      "subjectId": "60a7d0a6-6919-4060-87dd-5c547d8e0f76",
+      "facultyId": "25674055-4256-4b61-a7e5-972757215d4a",
+      "semester": "Fall 2024",
+      "grade": "B+",
+      "points": 3.3,
+      "createdAt": "2025-07-26T04:50:17.179Z"
+    },
+    {
+      "id": "6cb4389d-7245-4490-97b3-1eb6257f15bd",
+      "studentId": "31a5c2d9-048c-49dc-b08d-e36384e21f4b",
+      "subjectId": "f6d99d1c-f7e5-4c91-b212-7af7614dfe8b",
+      "facultyId": "67e7b01d-4f27-49cb-a08f-a187e89cc7af",
+      "semester": "Fall 2024",
+      "grade": "A",
+      "points": 4,
+      "createdAt": "2025-07-26T04:50:17.179Z"
+    },
+    {
+      "id": "0721ce86-9074-458b-b0bc-a3d4bfc49d5c",
+      "studentId": "31a5c2d9-048c-49dc-b08d-e36384e21f4b",
+      "subjectId": "68623fd0-700a-4079-8c7c-b512bf3e2652",
+      "facultyId": "27e82f9c-1fad-4070-a899-d59a3d4c3321",
+      "semester": "Fall 2024",
+      "grade": "A-",
+      "points": 3.7,
+      "createdAt": "2025-07-26T04:50:17.179Z"
+    },
+    {
+      "id": "983596d7-c02a-45c1-84ba-b47ba8cf930d",
+      "studentId": "31a5c2d9-048c-49dc-b08d-e36384e21f4b",
+      "subjectId": "48b34cec-7c62-4d06-902f-0a173aec72e5",
+      "facultyId": "d8397cc9-928f-49e5-a210-bc4f2398e7f2",
+      "semester": "Fall 2024",
+      "grade": "A-",
+      "points": 3.7,
+      "createdAt": "2025-07-26T04:50:17.179Z"
+    },
+    {
+      "id": "952da604-b05f-42b4-ac29-21420e0782a2",
+      "studentId": "31a5c2d9-048c-49dc-b08d-e36384e21f4b",
+      "subjectId": "cda9286a-56cd-4f44-b851-5d53afe9e982",
+      "facultyId": "e5b9b63a-b817-497c-a71a-1ab73288a0f9",
+      "semester": "Fall 2024",
+      "grade": "A",
+      "points": 4,
+      "createdAt": "2025-07-26T04:50:17.179Z"
+    },
+    {
+      "id": "2be0bec8-e0dc-4ac1-bc38-eba1a076ea18",
+      "studentId": "66a078d3-2be0-46bc-a9b2-fb80a3c76a20",
+      "subjectId": "60a7d0a6-6919-4060-87dd-5c547d8e0f76",
+      "facultyId": "25674055-4256-4b61-a7e5-972757215d4a",
+      "semester": "Fall 2024",
+      "grade": "B",
+      "points": 3,
+      "createdAt": "2025-07-26T04:50:17.179Z"
+    },
+    {
+      "id": "6354883f-b002-4a54-bac3-aadaa9a3e1ae",
+      "studentId": "66a078d3-2be0-46bc-a9b2-fb80a3c76a20",
+      "subjectId": "f6d99d1c-f7e5-4c91-b212-7af7614dfe8b",
+      "facultyId": "67e7b01d-4f27-49cb-a08f-a187e89cc7af",
+      "semester": "Fall 2024",
+      "grade": "A-",
+      "points": 3.7,
+      "createdAt": "2025-07-26T04:50:17.179Z"
+    },
+    {
+      "id": "33035947-d2b4-49c2-ac7f-2cd01a33c325",
+      "studentId": "66a078d3-2be0-46bc-a9b2-fb80a3c76a20",
+      "subjectId": "68623fd0-700a-4079-8c7c-b512bf3e2652",
+      "facultyId": "27e82f9c-1fad-4070-a899-d59a3d4c3321",
+      "semester": "Fall 2024",
+      "grade": "B-",
+      "points": 2.7,
+      "createdAt": "2025-07-26T04:50:17.179Z"
+    },
+    {
+      "id": "3aced7d1-a637-4867-a342-62531e2f1841",
+      "studentId": "66a078d3-2be0-46bc-a9b2-fb80a3c76a20",
+      "subjectId": "48b34cec-7c62-4d06-902f-0a173aec72e5",
+      "facultyId": "d8397cc9-928f-49e5-a210-bc4f2398e7f2",
+      "semester": "Fall 2024",
+      "grade": "B+",
+      "points": 3.3,
+      "createdAt": "2025-07-26T04:50:17.179Z"
+    },
+    {
+      "id": "09278678-0850-4d5d-b9c4-5aa5374090c9",
+      "studentId": "66a078d3-2be0-46bc-a9b2-fb80a3c76a20",
+      "subjectId": "cda9286a-56cd-4f44-b851-5d53afe9e982",
+      "facultyId": "e5b9b63a-b817-497c-a71a-1ab73288a0f9",
+      "semester": "Fall 2024",
+      "grade": "A",
+      "points": 4,
+      "createdAt": "2025-07-26T04:50:17.179Z"
+    },
+    {
+      "id": "d4cc7f0c-d62a-40ec-a4c8-5f4d3c8713af",
+      "studentId": "19051068-c6bb-44b8-a82a-a79da616a27d",
+      "subjectId": "60a7d0a6-6919-4060-87dd-5c547d8e0f76",
+      "facultyId": "25674055-4256-4b61-a7e5-972757215d4a",
+      "semester": "Fall 2024",
+      "grade": "B+",
+      "points": 3.3,
+      "createdAt": "2025-07-26T04:50:17.179Z"
+    },
+    {
+      "id": "08cc450a-6fc9-4c07-8cc0-b99074b0679f",
+      "studentId": "19051068-c6bb-44b8-a82a-a79da616a27d",
+      "subjectId": "f6d99d1c-f7e5-4c91-b212-7af7614dfe8b",
+      "facultyId": "67e7b01d-4f27-49cb-a08f-a187e89cc7af",
+      "semester": "Fall 2024",
+      "grade": "A",
+      "points": 4,
+      "createdAt": "2025-07-26T04:50:17.179Z"
+    },
+    {
+      "id": "5a14755c-2739-4691-8ffb-5c1c9dbcd7b4",
+      "studentId": "19051068-c6bb-44b8-a82a-a79da616a27d",
+      "subjectId": "68623fd0-700a-4079-8c7c-b512bf3e2652",
+      "facultyId": "27e82f9c-1fad-4070-a899-d59a3d4c3321",
+      "semester": "Fall 2024",
+      "grade": "B-",
+      "points": 2.7,
+      "createdAt": "2025-07-26T04:50:17.179Z"
+    },
+    {
+      "id": "69432e8d-b596-4cd0-96f2-833f56aceeb0",
+      "studentId": "19051068-c6bb-44b8-a82a-a79da616a27d",
+      "subjectId": "48b34cec-7c62-4d06-902f-0a173aec72e5",
+      "facultyId": "d8397cc9-928f-49e5-a210-bc4f2398e7f2",
+      "semester": "Fall 2024",
+      "grade": "B-",
+      "points": 2.7,
+      "createdAt": "2025-07-26T04:50:17.179Z"
+    },
+    {
+      "id": "66add1f6-0b38-4aa2-bb02-69c576e8adbb",
+      "studentId": "19051068-c6bb-44b8-a82a-a79da616a27d",
+      "subjectId": "cda9286a-56cd-4f44-b851-5d53afe9e982",
+      "facultyId": "e5b9b63a-b817-497c-a71a-1ab73288a0f9",
+      "semester": "Fall 2024",
+      "grade": "B-",
+      "points": 2.7,
+      "createdAt": "2025-07-26T04:50:17.179Z"
+    },
+    {
+      "id": "2e63bcd6-5130-49f0-95b5-2a99cfaab634",
+      "studentId": "b7156d7b-25ac-488c-94ce-bcf4b403482e",
+      "subjectId": "60a7d0a6-6919-4060-87dd-5c547d8e0f76",
+      "facultyId": "25674055-4256-4b61-a7e5-972757215d4a",
+      "semester": "Fall 2024",
+      "grade": "B+",
+      "points": 3.3,
+      "createdAt": "2025-07-26T04:50:17.179Z"
+    },
+    {
+      "id": "28295c47-8a6e-4dc7-a639-a0cf1e8f775c",
+      "studentId": "b7156d7b-25ac-488c-94ce-bcf4b403482e",
+      "subjectId": "f6d99d1c-f7e5-4c91-b212-7af7614dfe8b",
+      "facultyId": "67e7b01d-4f27-49cb-a08f-a187e89cc7af",
+      "semester": "Fall 2024",
+      "grade": "B+",
+      "points": 3.3,
+      "createdAt": "2025-07-26T04:50:17.179Z"
+    },
+    {
+      "id": "68667148-b187-4c91-aad6-73ca1cb9ca55",
+      "studentId": "b7156d7b-25ac-488c-94ce-bcf4b403482e",
+      "subjectId": "68623fd0-700a-4079-8c7c-b512bf3e2652",
+      "facultyId": "27e82f9c-1fad-4070-a899-d59a3d4c3321",
+      "semester": "Fall 2024",
+      "grade": "A-",
+      "points": 3.7,
+      "createdAt": "2025-07-26T04:50:17.179Z"
+    },
+    {
+      "id": "bf637cbe-bcf9-41a7-991f-8b57d523c632",
+      "studentId": "b7156d7b-25ac-488c-94ce-bcf4b403482e",
+      "subjectId": "48b34cec-7c62-4d06-902f-0a173aec72e5",
+      "facultyId": "d8397cc9-928f-49e5-a210-bc4f2398e7f2",
+      "semester": "Fall 2024",
+      "grade": "C+",
+      "points": 2.3,
+      "createdAt": "2025-07-26T04:50:17.179Z"
+    },
+    {
+      "id": "b44983a1-4311-46a7-a921-a0b59bcf974f",
+      "studentId": "b7156d7b-25ac-488c-94ce-bcf4b403482e",
+      "subjectId": "cda9286a-56cd-4f44-b851-5d53afe9e982",
+      "facultyId": "e5b9b63a-b817-497c-a71a-1ab73288a0f9",
+      "semester": "Fall 2024",
+      "grade": "B-",
+      "points": 2.7,
+      "createdAt": "2025-07-26T04:50:17.179Z"
+    },
+    {
+      "id": "763c361a-67c1-4fbc-89bf-a0a960aefd58",
+      "studentId": "4be9f946-a3a8-440a-801a-431b485c212c",
+      "subjectId": "60a7d0a6-6919-4060-87dd-5c547d8e0f76",
+      "facultyId": "25674055-4256-4b61-a7e5-972757215d4a",
+      "semester": "Fall 2024",
+      "grade": "B-",
+      "points": 2.7,
+      "createdAt": "2025-07-26T04:50:17.179Z"
+    },
+    {
+      "id": "fa904ed6-9f58-4f58-aa16-c1d71495dc44",
+      "studentId": "4be9f946-a3a8-440a-801a-431b485c212c",
+      "subjectId": "f6d99d1c-f7e5-4c91-b212-7af7614dfe8b",
+      "facultyId": "67e7b01d-4f27-49cb-a08f-a187e89cc7af",
+      "semester": "Fall 2024",
+      "grade": "B-",
+      "points": 2.7,
+      "createdAt": "2025-07-26T04:50:17.179Z"
+    },
+    {
+      "id": "8b7df6b6-c08d-4776-9916-4e986d658a79",
+      "studentId": "4be9f946-a3a8-440a-801a-431b485c212c",
+      "subjectId": "68623fd0-700a-4079-8c7c-b512bf3e2652",
+      "facultyId": "27e82f9c-1fad-4070-a899-d59a3d4c3321",
+      "semester": "Fall 2024",
+      "grade": "A",
+      "points": 4,
+      "createdAt": "2025-07-26T04:50:17.179Z"
+    },
+    {
+      "id": "66cc1623-6fda-425c-9376-b4cc2b78ea61",
+      "studentId": "4be9f946-a3a8-440a-801a-431b485c212c",
+      "subjectId": "48b34cec-7c62-4d06-902f-0a173aec72e5",
+      "facultyId": "d8397cc9-928f-49e5-a210-bc4f2398e7f2",
+      "semester": "Fall 2024",
+      "grade": "A",
+      "points": 4,
+      "createdAt": "2025-07-26T04:50:17.179Z"
+    },
+    {
+      "id": "f1f9d93e-9f4f-42f0-8a52-60f502c4fe9d",
+      "studentId": "4be9f946-a3a8-440a-801a-431b485c212c",
+      "subjectId": "cda9286a-56cd-4f44-b851-5d53afe9e982",
+      "facultyId": "e5b9b63a-b817-497c-a71a-1ab73288a0f9",
+      "semester": "Fall 2024",
+      "grade": "C+",
+      "points": 2.3,
+      "createdAt": "2025-07-26T04:50:17.179Z"
+    },
+    {
+      "id": "46d449e9-d7d9-4b77-8613-1a531e3e0e10",
+      "studentId": "342f060f-af41-4748-a3b1-8bf129b93ee2",
+      "subjectId": "60a7d0a6-6919-4060-87dd-5c547d8e0f76",
+      "facultyId": "25674055-4256-4b61-a7e5-972757215d4a",
+      "semester": "Fall 2024",
+      "grade": "A-",
+      "points": 3.7,
+      "createdAt": "2025-07-26T04:50:17.179Z"
+    },
+    {
+      "id": "f1bfdab7-d00d-46e9-96cd-2fec9a1c0f47",
+      "studentId": "342f060f-af41-4748-a3b1-8bf129b93ee2",
+      "subjectId": "f6d99d1c-f7e5-4c91-b212-7af7614dfe8b",
+      "facultyId": "67e7b01d-4f27-49cb-a08f-a187e89cc7af",
+      "semester": "Fall 2024",
+      "grade": "A",
+      "points": 4,
+      "createdAt": "2025-07-26T04:50:17.179Z"
+    },
+    {
+      "id": "ef1cbeb3-8894-4e24-8a84-a5874374dcb6",
+      "studentId": "342f060f-af41-4748-a3b1-8bf129b93ee2",
+      "subjectId": "68623fd0-700a-4079-8c7c-b512bf3e2652",
+      "facultyId": "27e82f9c-1fad-4070-a899-d59a3d4c3321",
+      "semester": "Fall 2024",
+      "grade": "B",
+      "points": 3,
+      "createdAt": "2025-07-26T04:50:17.179Z"
+    },
+    {
+      "id": "a89eeaf4-255b-4100-9daf-e75747258f02",
+      "studentId": "342f060f-af41-4748-a3b1-8bf129b93ee2",
+      "subjectId": "48b34cec-7c62-4d06-902f-0a173aec72e5",
+      "facultyId": "d8397cc9-928f-49e5-a210-bc4f2398e7f2",
+      "semester": "Fall 2024",
+      "grade": "A-",
+      "points": 3.7,
+      "createdAt": "2025-07-26T04:50:17.179Z"
+    },
+    {
+      "id": "343f6cee-0e7e-4c1d-914d-9c09df12ee93",
+      "studentId": "342f060f-af41-4748-a3b1-8bf129b93ee2",
+      "subjectId": "cda9286a-56cd-4f44-b851-5d53afe9e982",
+      "facultyId": "e5b9b63a-b817-497c-a71a-1ab73288a0f9",
+      "semester": "Fall 2024",
+      "grade": "B",
+      "points": 3,
+      "createdAt": "2025-07-26T04:50:17.179Z"
+    },
+    {
+      "id": "4635a59e-daf0-403c-823d-ee4828e4fdec",
+      "studentId": "0e987c50-340b-4414-a076-aaff7f93f940",
+      "subjectId": "60a7d0a6-6919-4060-87dd-5c547d8e0f76",
+      "facultyId": "25674055-4256-4b61-a7e5-972757215d4a",
+      "semester": "Fall 2024",
+      "grade": "B+",
+      "points": 3.3,
+      "createdAt": "2025-07-26T04:50:17.179Z"
+    },
+    {
+      "id": "63cf4df6-5b06-49cd-986f-c1cea490a453",
+      "studentId": "0e987c50-340b-4414-a076-aaff7f93f940",
+      "subjectId": "f6d99d1c-f7e5-4c91-b212-7af7614dfe8b",
+      "facultyId": "67e7b01d-4f27-49cb-a08f-a187e89cc7af",
+      "semester": "Fall 2024",
+      "grade": "B-",
+      "points": 2.7,
+      "createdAt": "2025-07-26T04:50:17.179Z"
+    },
+    {
+      "id": "c1e1fa33-68e1-481e-8038-00aecd2538f3",
+      "studentId": "0e987c50-340b-4414-a076-aaff7f93f940",
+      "subjectId": "68623fd0-700a-4079-8c7c-b512bf3e2652",
+      "facultyId": "27e82f9c-1fad-4070-a899-d59a3d4c3321",
+      "semester": "Fall 2024",
+      "grade": "B+",
+      "points": 3.3,
+      "createdAt": "2025-07-26T04:50:17.179Z"
+    },
+    {
+      "id": "3b16c1a1-2a73-4b89-a381-a678287e44d1",
+      "studentId": "0e987c50-340b-4414-a076-aaff7f93f940",
+      "subjectId": "48b34cec-7c62-4d06-902f-0a173aec72e5",
+      "facultyId": "d8397cc9-928f-49e5-a210-bc4f2398e7f2",
+      "semester": "Fall 2024",
+      "grade": "C+",
+      "points": 2.3,
+      "createdAt": "2025-07-26T04:50:17.179Z"
+    },
+    {
+      "id": "0e5a400c-f10b-4af3-814f-3704cc46dada",
+      "studentId": "0e987c50-340b-4414-a076-aaff7f93f940",
+      "subjectId": "cda9286a-56cd-4f44-b851-5d53afe9e982",
+      "facultyId": "e5b9b63a-b817-497c-a71a-1ab73288a0f9",
+      "semester": "Fall 2024",
+      "grade": "B-",
+      "points": 2.7,
+      "createdAt": "2025-07-26T04:50:17.179Z"
+    },
+    {
+      "id": "grade-102af5fd-f8d5-4fde-b688-8f9d79e47568",
+      "studentId": "19340f76-fd61-440e-b1ef-b87168687c52",
+      "subjectId": "60a7d0a6-6919-4060-87dd-5c547d8e0f76",
+      "facultyId": "25674055-4256-4b61-a7e5-972757215d4a",
+      "semester": "sem 2",
+      "grade": "B+",
+      "points": 3.3,
+      "createdAt": "2025-07-27T10:15:04.699Z"
+    },
+    {
+      "id": "grade-1b2d9da2-c6f6-4edc-9504-bb0d11f4e06f",
+      "studentId": "685afc86-ab3b-46ac-b1ec-15d5478dadfa",
+      "subjectId": "60a7d0a6-6919-4060-87dd-5c547d8e0f76",
+      "facultyId": "25674055-4256-4b61-a7e5-972757215d4a",
+      "semester": "sem 2",
+      "grade": "A-",
+      "points": 3.7,
+      "createdAt": "2025-07-29T09:38:46.751Z"
+    }
+  ]
+}
