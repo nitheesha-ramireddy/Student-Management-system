@@ -59,7 +59,7 @@ student-management-system/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/student-management-system.git
+git clone https://github.com/nitheesha-ramireddy/Student-Management-system.git
 ```
 
 ### 2. Setup Backend
